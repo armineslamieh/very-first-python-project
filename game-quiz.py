@@ -1,4 +1,4 @@
-print("Welcome to my game mother fucker!")
+print("Welcome to my game!")
 playing = input("Do you wanna play? ")
 
 if playing.lower() != "yes" :
